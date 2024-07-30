@@ -18,7 +18,8 @@ Maven 管理專案的依賴和構建，確保開發過程的高效和一致。
 5.產品清單分頁功能
 6.顯示總頁數 總筆數
 
-或是用/product/query/{pid}的URL，透過產品 ID 查詢單一特定產品。 用/product/queryall的URL，可以查詢全部產品
+或是用/product/query/{pid}的URL，透過產品 ID 查詢單一特定產品。 
+用/product/queryall的URL，可以查詢全部產品。
 
 **運行環境需求**
 前端:JSP,HTML/CSS,JavaScript,jQuery
