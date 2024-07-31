@@ -25,3 +25,6 @@ Maven 管理專案的依賴和構建，確保開發過程的高效和一致。
 前端:JSP,HTML/CSS,JavaScript,jQuery
 後端:Java,Spring Boot,SQL server,Maven,Eclipse,Spring MVC,Spring Data JPA
 
+**Demo影片連結**
+https://youtu.be/5DDqZzlJBAs
+
