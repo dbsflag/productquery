@@ -1,5 +1,8 @@
 登山產品清單管理平台
 
+**Demo影片連結**
+https://youtu.be/5DDqZzlJBAs
+
 **主要技術點整合**
 Spring Boot 提供了一個整合性的開發框架，簡化了應用程式的配置和部署。
 Spring MVC 負責處理 Web 請求和響應，並與後端業務邏輯（服務層）進行交互。
@@ -25,6 +28,5 @@ Maven 管理專案的依賴和構建，確保開發過程的高效和一致。
 前端:JSP,HTML/CSS,JavaScript,jQuery
 後端:Java,Spring Boot,SQL server,Maven,Eclipse,Spring MVC,Spring Data JPA
 
-**Demo影片連結**
-https://youtu.be/5DDqZzlJBAs
+
 
