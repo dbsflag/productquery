@@ -29,4 +29,41 @@ Maven 管理專案的依賴和構建，確保開發過程的高效和一致。
 後端:Java,Spring Boot,SQL server,Maven,Eclipse,Spring MVC,Spring Data JPA
 
 
+### Hiking Product List Management Platform
+
+**Demo Video:** [https://youtu.be/5DDqZzlJBAs](https://youtu.be/5DDqZzlJBAs)
+
+**Key Technologies:**
+
+This project integrates several key technologies to create a comprehensive development framework. 
+
+- **Spring Boot:** Provides an integrated development framework that simplifies application configuration and deployment.
+- **Spring MVC:** Handles web requests and responses, interacting with the backend business logic (service layer).
+- **Spring Data JPA:** Simplifies database access and operations through the Repository pattern, enabling efficient CRUD operations.
+- **JSP and JSTL:** Offer a flexible front-end templating system, allowing dynamic generation of HTML pages.
+- **JavaScript and jQuery:** Implement asynchronous communication (AJAX) between the front-end and back-end, enhancing the user experience.
+- **Maven:** Manages project dependencies and builds, ensuring an efficient and consistent development process.
+
+These technologies together form a complete web application development stack, covering all layers from front-end to back-end, and from the database to the application server.
+
+**Features:**
+
+- Access the main product query page via the URL `/product/productquerymainaction.controller`, and perform the following actions from the front-end interface:
+  1. Fuzzy search by product name.
+  2. Create or update products.
+  3. Delete products by ID.
+  4. Load product data by ID.
+  5. Pagination for the product list.
+  6. Display total page count and total record count.
+  
+- Query a single specific product using the URL `/product/query/{pid}` with the product ID.
+- Query all products using the URL `/product/queryall`.
+
+**Environment Requirements:**
+
+- **Front-end:** JSP, HTML/CSS, JavaScript, jQuery
+- **Back-end:** Java, Spring Boot, SQL Server, Maven, Eclipse, Spring MVC, Spring Data JPA
+
+
+
 
